@@ -1,0 +1,4 @@
+include cryHouse/schema.sql
+graft cryHouse/static
+graft cryHouse/templates
+global-exclude *.pyc
